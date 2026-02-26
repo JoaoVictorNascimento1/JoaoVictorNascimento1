@@ -66,7 +66,7 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
 
 ### 📊 Estatísticas
 
-[![Estatísticas João Victor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&show_icons=true&theme=tokyonight)]
+![Estatísticas João Victor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&show_icons=true&theme=tokyonight)
 
 ## 📫 Vamos nos conectar?
 
