@@ -67,14 +67,10 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
 <br/>
 
 # 🤖 Estatísticas
-<p>
-  <img 
-    align="center" 
-    alt="Top Langs" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=JoaoVictorNascimento1&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&theme=tokyonight&layout=compact"/>
+</div>
 
 ## 📫 Vamos nos conectar?
 
