@@ -72,11 +72,11 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
     align="center" 
     alt="Top Langs" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictornascimento1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](LINK_DO_SEU_LINKEDIN)
-- 📧 [Email](mailto:seu-email@ufrn.edu.br)
+- 💼 [LinkedIn](www.linkedin.com/in/joãovictornascimento1)
+- 📧 [Email](nascimentojv01@gmail.com)
