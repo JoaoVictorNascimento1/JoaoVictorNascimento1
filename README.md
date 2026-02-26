@@ -28,7 +28,6 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img
     align="left" 
     alt="Node.js" 
@@ -37,7 +36,6 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
-
 <img 
     align="left" 
     alt="C++"
@@ -68,12 +66,9 @@ Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atual
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&layout=compact&theme=dracula&hide_border=true"
-/>
-</p>
+[![Estatísticas João Victor](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoaoVictorNascimento1&show_icons=true&theme=tokyonight)]
 
 ## 📫 Vamos nos conectar?
 
-- 💼 [LinkedIn](www.linkedin.com/in/joãovictornascimento1)
-- 📧 [Email](nascimentojv01@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/joãovictornascimento1)
+- 📧 [Email](mailto:nascimentojv01@gmail.com)
