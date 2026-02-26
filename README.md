@@ -1,6 +1,6 @@
 # 🧑‍💼Joao Victor do Nascimento
 
-Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Engenharia da Computação na UFRN. Tenho me identificado e me dedicado com as áreas: Dev. Web Backend, Data Science e IoT, sempre explorando novas tecnologias e aprofundando minha base técnica com projetos reais.
+Me chamo João Victor, tenho 24 anos e sou natural do Rio Grande do Norte. Atualmente, estou cursando Engenharia da Computação na UFRN. Tenho me identificado e me dedicado com as áreas: Dev. Web Backend, Data Science e IoT, sempre explorando novas tecnologias e profundando minha base técnica com projetos reais.
 
 ### 🤖 Linguagens e Tecnologias
 
